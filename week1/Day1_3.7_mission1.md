@@ -1,6 +1,5 @@
 # Day1 3.7 mission1 record
 
-
 ```bash
 $ cd ~
 $ mkdir -p robot_study/week1
