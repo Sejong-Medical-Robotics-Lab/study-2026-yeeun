@@ -2,7 +2,8 @@
 
 ```bash
 cd ~/robot_study/week1
-$mkdir data backup$ touch data/exp_01.csv data/exp_02.csv data/exp_03.csv data/memo.txt
+$mkdir data backup
+$ touch data/exp_01.csv data/exp_02.csv data/exp_03.csv data/memo.txt
 $ ls data
 exp_01.csv  exp_02.csv  exp_03.csv  memo.txt
 $ cp data/exp_*.csv backup/
