@@ -1,6 +1,6 @@
 #Day1 4.7 mission1 record
 
-bash ```
+```bash
 $ sudo apt install git -y
 $ git config --global user.name "Kim Yeeun"
 $ git config --global user.email "yeeundalbun3@gmail.com"
