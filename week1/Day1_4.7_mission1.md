@@ -1,4 +1,4 @@
-#Day1 4.7 mission1 record
+# Day1 4.7 mission1 record
 
 ```bash
 $ sudo apt install git -y
