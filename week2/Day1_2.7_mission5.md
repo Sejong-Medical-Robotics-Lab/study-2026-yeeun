@@ -1,4 +1,4 @@
-# Day 2.7 mission5 record
+# Day1 2.7 mission5 record
 
 ```bash
 - 워크 스페이스 제한
