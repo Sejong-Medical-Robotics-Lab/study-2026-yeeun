@@ -1,6 +1,6 @@
 # Day1 2.5 mission3 record
 
-```bash
+
 | turtlesim에서는 | Go2에서는? |
 | :--- | :--- |
 | `/turtle1/cmd_vel` 로 Twist 발행 | `/sport/cmd_vel` 로 Twist 발행 |
